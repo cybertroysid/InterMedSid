@@ -48,13 +48,13 @@ span {
   position: absolute;
   right: 450px;
   top: 90px;
-  animation: animate 7s linear infinite;
+  animation: animate 10s linear infinite;
 }
 
 .cloud2 {
   position: absolute;
   top: 180px;
-  animation: animate1 7s linear infinite;
+  animation: animate1 10s linear infinite;
 }
 
 .mountain {
